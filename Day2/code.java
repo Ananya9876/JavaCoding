@@ -7,5 +7,5 @@ public class code {
         System.out.println(i*n);
     }
 }
-    }
+}
 
