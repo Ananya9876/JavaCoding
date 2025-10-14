@@ -14,6 +14,7 @@ public class code {
         }
         
     }
+    
     System.out.println("Even numbers are: "+n); 
     System.out.println("Odd numbers are: "+m); 
     
